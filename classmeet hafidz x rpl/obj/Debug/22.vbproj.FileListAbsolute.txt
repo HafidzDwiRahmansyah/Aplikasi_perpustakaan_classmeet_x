@@ -1,0 +1,28 @@
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\bin\Debug\22.exe.config
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\obj\Debug\_22.pinjam.resources
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\obj\Debug\_22.Resources.resources
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\obj\Debug\22.vbproj.GenerateResource.Cache
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\bin\Debug\22.exe
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\bin\Debug\22.pdb
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\bin\Debug\22.xml
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\obj\Debug\22.exe
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\obj\Debug\22.xml
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\obj\Debug\22.pdb
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\obj\Debug\_22.Beranda.resources
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\obj\Debug\_22.input.resources
+C:\Users\My-Asus\AppData\Local\Temporary Projects\22\obj\Debug\_22.Pengembalian.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\bin\Debug\22.exe.config
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\22.exe
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\22.xml
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\22.pdb
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\bin\Debug\22.exe
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\bin\Debug\22.pdb
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\bin\Debug\22.xml
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\_22.Beranda.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\_22.pinjam.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\_22.input.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\_22.Resources.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\_22.Pengembalian.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\22.vbproj.GenerateResource.Cache
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\_22.login.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\22\22\obj\Debug\_22.sign.resources
